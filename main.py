@@ -17,4 +17,4 @@ async def on_member_join(member):
 bot.add_cog(Moderation(bot))
 bot.add_cog(LinkDeletion(bot))
 
-bot.run("MTA2NTIyNzE2NjE5Mjc3OTI5NA.Gfa-kM.44U2bCLRQGIbZyUgsJ46knMqes8sZEEuWCfiEA")
+bot.run("Token")
